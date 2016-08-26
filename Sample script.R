@@ -1,2 +1,2 @@
 x <- rnorm(n=100)
-plot(x)
+plot(x, xlim=c(-2, 2)
